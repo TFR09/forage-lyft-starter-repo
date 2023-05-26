@@ -2,6 +2,8 @@
     "python.analysis.extraPaths": [
         "./components/engines",
         "./components/batteries",
-        "./components"
+        "./components",
+        "./batteries",
+        "./engines"
     ]
 }
