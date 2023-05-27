@@ -1,9 +1,5 @@
 {
     "python.analysis.extraPaths": [
-        "./components/engines",
-        "./components/batteries",
-        "./components",
-        "./batteries",
-        "./engines"
+        "./tires"
     ]
 }
